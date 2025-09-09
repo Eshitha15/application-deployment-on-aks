@@ -6,7 +6,8 @@ Deploying a Frontend Application on Azure Kubernetes Service (AKS) with Docker &
 Before starting, ensure you have the following installed on your system:
 
 # Install Docker Desktop:
-        Download & install: Docker Desktop(https://www.docker.com/products/docker-desktop/)
+
+            Docker Desktop(https://www.docker.com/products/docker-desktop/)
 Verify installation:
       
       docker --version
@@ -14,7 +15,8 @@ Verify installation:
        docker info
 
 # Install Azure CLI:
-        Download & install: Azure CLI(https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+       
+           Azure CLI(https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 Verify installation:
        
        az --version
