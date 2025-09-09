@@ -107,4 +107,4 @@ Check service:
 
 Copy the EXTERNAL-IP and open in browser:
 
-http:// paste EXTERNAL-IP
+       http://"paste EXTERNAL-IP"
